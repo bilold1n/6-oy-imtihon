@@ -125,6 +125,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  overflow-y: hidden;
 }
 .sahifa {
   text-align: center;
